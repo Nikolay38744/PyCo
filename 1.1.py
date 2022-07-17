@@ -8,3 +8,6 @@
 print('A')
 print('B')
 print('c')
+
+"""Допеши код, чтобы получить рабочее выражение"""
+print_"l love Python"_
